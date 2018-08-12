@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sgame</string>
+    <string name="title_activity_songlist">Songlist</string>
+    <string name="title_activity_test_touch_delete">TestTouchDelete</string>
+</resources>
